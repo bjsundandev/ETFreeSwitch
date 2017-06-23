@@ -1,0 +1,7 @@
+<litepal>
+    <dbname value="et_map"/>
+    <version value="1" />
+    <list>
+        <mapping class="com.efeida.etfreeswitch.db.province" />
+    </list>
+</litepal>
